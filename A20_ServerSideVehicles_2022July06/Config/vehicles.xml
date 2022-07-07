@@ -460,7 +460,7 @@
 		<property name="waterDrag_y_velScale_velMaxScale" value="1.5, .9, .15"/>
 		<property name="wheelPtlScale" value=".6"/>
 
-		<property name="hornSound" value="vehicle/minibike/demolitionzalert"/>
+		<property name="hornSound" value="demolitionzalert"/>
 
 		<property class="chassis">
 			<property name="class" value="Chassis"/>
